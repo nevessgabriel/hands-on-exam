@@ -16,4 +16,4 @@ function fibonacciSeries(limit) {
 const limit = 10000; // You can change this limit
 const fiboSeries = fibonacciSeries(limit);
 
-console.log("Fibonacci Series up to", limit, ":", fibSeries.join(" "));
+console.log("Fibonacci Series up to", limit, ":", fiboSeries.join(" "));
